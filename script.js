@@ -3,7 +3,7 @@ $(document).ready(function() {
 		anchors: ["firstPage", "secondPage", "thirdPage"],
 		menu: "#menu",
 		autoScrolling:false
-		// responsiveWidth: 750
+		
 	});
 });
 
